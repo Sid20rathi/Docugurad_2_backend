@@ -2,3 +2,12 @@ flask==3.0.0
 flask-cors==4.0.0
 google-generativeai==0.8.3
 python-dotenv==1.0.0
+fastapi
+uvicorn
+python-multipart
+opencv-python
+numpy 
+pdf2image 
+scikit-image 
+easyocr 
+difflib
