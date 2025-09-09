@@ -10,4 +10,3 @@ numpy
 pdf2image 
 scikit-image 
 easyocr 
-difflib
