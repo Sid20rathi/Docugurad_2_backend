@@ -10,3 +10,7 @@ numpy
 pdf2image 
 scikit-image 
 easyocr 
+pytesseract
+sqlalchemy
+sqlmodel
+pymysql
